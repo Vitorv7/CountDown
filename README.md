@@ -3,8 +3,9 @@
 **LAYOUT DESKTOP 🖥️**
 ![**LAYOUT**](/assets/img/layout_desktop.png)
 
-**LAYOUT MOBILE 📱**
-![LAYOUT_MOBILE](/assets/img/layout_mobile.jpg)
+**LAYOUT MOBILE 📱**<br/>
+
+![**LAYOUT MOBILE**](/assets/img/layout_mobile.png)
 
 ## **TECNOLOGIAS ULTILIZADAS**
 
